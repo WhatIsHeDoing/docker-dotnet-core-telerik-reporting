@@ -1,5 +1,7 @@
 # docker-dotnet-core-telerik-reporting
 
+> **Retired in October 2026.** This image last built in February 2021, on .NET Core 2.2, which reached end of life in December 2019. Build on `mcr.microsoft.com/dotnet/aspnet` with a supported .NET release instead. Current WhatIsHeDoing images live in [WhatIsHeDoing/containers](https://github.com/WhatIsHeDoing/containers).
+
 [![.NET Core Telerik Reporting Base pulls](https://img.shields.io/docker/pulls/whatishedoing/dotnet-core-telerik-reporting-base.svg)][site]
 [![.NET Core Telerik Reporting Base build](https://img.shields.io/docker/cloud/build/whatishedoing/dotnet-core-telerik-reporting-base.svg)][site]
 
